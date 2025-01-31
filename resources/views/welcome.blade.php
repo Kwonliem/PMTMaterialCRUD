@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1 class="text-center mt-3">
-        Assalamu Alaikum <br> Welcome To Student Management System
+        Assalamu'alaikum <br> Welcome To BQ Student Management System
     </h1>
     <div class="text-center mt-3">
         <a href="#" class="btn btn-primary">Manage Student</a>
